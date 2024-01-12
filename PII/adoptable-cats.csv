@@ -1,10 +1,7 @@
-﻿id,name,age_group,age,gender,size,coat_length,behavior,behavior_esp,breed,notes
-6251749,Sissy,Kitten,Young,Female,Medium,UK,Affectionate,Afectuosa,American Bobtail,foster: Anna Garcia (541) 555-5555
-6694774,Elsa,Cat,Adult,Female,Medium,UK,"Calm, Intelligent, Independent","Calma, Inteligente, Independiente",Exotic Shorthair,
-6694777,Shortbread,Cat,Adult,Male,Medium,UK,"Playful, Intelligent","Juguetona, Inteligente",Exotic Shorthair,
-6724034,Storm,Kitten,Baby,Female,Medium,UK,"Calm, Intelligent, Independent","Calma, Inteligente, Independiente",Canadian Hairless,
-7116776,Jessica,Cat,Adult,Female,Medium,UK,"Chatty, Intelligent","Hablador, Inteligente",Exotic Shorthair,
-7844895,Angel,Cat,Adult,Female,Medium,UK,Playful,Juguetona,Turkish Angora,
-8205682,Phoebe,Kitten,Baby,Male,Medium,UK,"Affectionate, Playful, Vocal","Cariñoso, Juguetón, Vocal",Oriental Short Hair,
-8225343,Piper,Cat,Adult,Male,Small,UK,"Affectionate,Intelligent","Afectuosa,Inteligente",Abyssinian,
-8570641,Lillith,Kitten,Young,Female,Small,UK,"Affectionate, Calm, Intelligent","Cariñoso, tranquilo, inteligente",Exotic Shorthair,
+﻿id,name,age_group,age,gender,size,coat_length,behavior,behavior_2,breed
+6251749,Sissy,Kitten,Young,Female,Medium,UK,Affectionate,Afectuosa,American Bobtail
+6694774,Elsa,Cat,Adult,Female,Medium,UK,"Calm, Intelligent, Independent","Calma, Inteligente, Independiente",Exotic Shorthair
+6694777,Shortbread,Cat,Adult,Male,Medium,UK,"Playful, Intelligent","Juguetona, Inteligente",Exotic Shorthair
+6724034,Storm,Kitten,Baby,Female,Medium,UK,"Calm, Intelligent, Independent","Calma, Inteligente, Independiente",Canadian Hairless
+7116776,Jessica,Cat,Adult,Female,Medium,UK,"Chatty, Intelligent","Hablador, Inteligente",Exotic Shorthair
+7844895,Angel,Cat,Adult,Female,Medium,UK,Playful,Juguetona,Turkish Angora
